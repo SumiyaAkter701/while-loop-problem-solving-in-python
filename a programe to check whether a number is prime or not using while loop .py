@@ -1,4 +1,4 @@
-# while-loop-problem-solving-in-python
+# Write a programe to check whether a number is prime or not using while loop 
 num = int (input("Type a number: "))
 divided_by = 2
 verifyprimenumber = 0
